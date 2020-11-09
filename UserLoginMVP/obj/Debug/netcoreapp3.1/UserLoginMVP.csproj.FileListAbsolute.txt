@@ -1,0 +1,15 @@
+C:\Users\mateusbrum\source\repos\UserLoginMVP\UserLoginMVP\bin\Debug\netcoreapp3.1\UserLoginMVP.exe
+C:\Users\mateusbrum\source\repos\UserLoginMVP\UserLoginMVP\bin\Debug\netcoreapp3.1\UserLoginMVP.deps.json
+C:\Users\mateusbrum\source\repos\UserLoginMVP\UserLoginMVP\bin\Debug\netcoreapp3.1\UserLoginMVP.runtimeconfig.json
+C:\Users\mateusbrum\source\repos\UserLoginMVP\UserLoginMVP\bin\Debug\netcoreapp3.1\UserLoginMVP.runtimeconfig.dev.json
+C:\Users\mateusbrum\source\repos\UserLoginMVP\UserLoginMVP\bin\Debug\netcoreapp3.1\UserLoginMVP.dll
+C:\Users\mateusbrum\source\repos\UserLoginMVP\UserLoginMVP\bin\Debug\netcoreapp3.1\UserLoginMVP.pdb
+C:\Users\mateusbrum\source\repos\UserLoginMVP\UserLoginMVP\obj\Debug\netcoreapp3.1\UserLoginMVP.csprojAssemblyReference.cache
+C:\Users\mateusbrum\source\repos\UserLoginMVP\UserLoginMVP\obj\Debug\netcoreapp3.1\UserLoginMVP.view.resources
+C:\Users\mateusbrum\source\repos\UserLoginMVP\UserLoginMVP\obj\Debug\netcoreapp3.1\UserLoginMVP.csproj.GenerateResource.cache
+C:\Users\mateusbrum\source\repos\UserLoginMVP\UserLoginMVP\obj\Debug\netcoreapp3.1\UserLoginMVP.AssemblyInfoInputs.cache
+C:\Users\mateusbrum\source\repos\UserLoginMVP\UserLoginMVP\obj\Debug\netcoreapp3.1\UserLoginMVP.AssemblyInfo.cs
+C:\Users\mateusbrum\source\repos\UserLoginMVP\UserLoginMVP\obj\Debug\netcoreapp3.1\UserLoginMVP.csproj.CoreCompileInputs.cache
+C:\Users\mateusbrum\source\repos\UserLoginMVP\UserLoginMVP\obj\Debug\netcoreapp3.1\UserLoginMVP.dll
+C:\Users\mateusbrum\source\repos\UserLoginMVP\UserLoginMVP\obj\Debug\netcoreapp3.1\UserLoginMVP.pdb
+C:\Users\mateusbrum\source\repos\UserLoginMVP\UserLoginMVP\obj\Debug\netcoreapp3.1\UserLoginMVP.genruntimeconfig.cache
