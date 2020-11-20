@@ -17,7 +17,7 @@ namespace UserLoginMVP
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new View());
+            Application.Run(new View(new Presenter(new Model())));
         }
     }
 }
