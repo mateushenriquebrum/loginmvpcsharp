@@ -12,7 +12,7 @@ namespace UserLoginMVP
 {
     public partial class View : Form
     {
-        public View(Presenter presenter)
+        public View(Shared.Presenter presenter)
         {
             InitializeComponent();
             this.presenter = presenter;
@@ -46,6 +46,6 @@ namespace UserLoginMVP
         {
             this.presenter.TryLogin(userText.Text, passwordText.Text);
         }
-        private Presenter presenter;
+        private Shared.Presenter presenter;
     }
 }

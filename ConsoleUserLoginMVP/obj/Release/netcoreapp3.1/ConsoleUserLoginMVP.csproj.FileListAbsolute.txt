@@ -1,0 +1,16 @@
+C:\Users\mateusbrum\source\repos\UserLoginMVP\ConsoleUserLoginMVP\obj\Release\netcoreapp3.1\ConsoleUserLoginMVP.csprojAssemblyReference.cache
+C:\Users\mateusbrum\source\repos\UserLoginMVP\ConsoleUserLoginMVP\obj\Release\netcoreapp3.1\ConsoleUserLoginMVP.AssemblyInfoInputs.cache
+C:\Users\mateusbrum\source\repos\UserLoginMVP\ConsoleUserLoginMVP\obj\Release\netcoreapp3.1\ConsoleUserLoginMVP.AssemblyInfo.cs
+C:\Users\mateusbrum\source\repos\UserLoginMVP\ConsoleUserLoginMVP\obj\Release\netcoreapp3.1\ConsoleUserLoginMVP.csproj.CoreCompileInputs.cache
+C:\Users\mateusbrum\source\repos\UserLoginMVP\ConsoleUserLoginMVP\bin\Release\netcoreapp3.1\ConsoleUserLoginMVP.exe
+C:\Users\mateusbrum\source\repos\UserLoginMVP\ConsoleUserLoginMVP\bin\Release\netcoreapp3.1\ConsoleUserLoginMVP.deps.json
+C:\Users\mateusbrum\source\repos\UserLoginMVP\ConsoleUserLoginMVP\bin\Release\netcoreapp3.1\ConsoleUserLoginMVP.runtimeconfig.json
+C:\Users\mateusbrum\source\repos\UserLoginMVP\ConsoleUserLoginMVP\bin\Release\netcoreapp3.1\ConsoleUserLoginMVP.runtimeconfig.dev.json
+C:\Users\mateusbrum\source\repos\UserLoginMVP\ConsoleUserLoginMVP\bin\Release\netcoreapp3.1\ConsoleUserLoginMVP.dll
+C:\Users\mateusbrum\source\repos\UserLoginMVP\ConsoleUserLoginMVP\bin\Release\netcoreapp3.1\ConsoleUserLoginMVP.pdb
+C:\Users\mateusbrum\source\repos\UserLoginMVP\ConsoleUserLoginMVP\bin\Release\netcoreapp3.1\Shared.dll
+C:\Users\mateusbrum\source\repos\UserLoginMVP\ConsoleUserLoginMVP\bin\Release\netcoreapp3.1\Shared.pdb
+C:\Users\mateusbrum\source\repos\UserLoginMVP\ConsoleUserLoginMVP\obj\Release\netcoreapp3.1\ConsoleUserLoginMVP.csproj.CopyComplete
+C:\Users\mateusbrum\source\repos\UserLoginMVP\ConsoleUserLoginMVP\obj\Release\netcoreapp3.1\ConsoleUserLoginMVP.dll
+C:\Users\mateusbrum\source\repos\UserLoginMVP\ConsoleUserLoginMVP\obj\Release\netcoreapp3.1\ConsoleUserLoginMVP.pdb
+C:\Users\mateusbrum\source\repos\UserLoginMVP\ConsoleUserLoginMVP\obj\Release\netcoreapp3.1\ConsoleUserLoginMVP.genruntimeconfig.cache

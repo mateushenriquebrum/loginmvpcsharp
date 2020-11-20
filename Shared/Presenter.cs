@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace UserLoginMVP
+namespace Shared
 {
     public class Presenter
     {

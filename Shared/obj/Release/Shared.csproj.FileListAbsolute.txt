@@ -1,0 +1,6 @@
+C:\Users\mateusbrum\source\repos\UserLoginMVP\Shared\obj\Release\Shared.csprojAssemblyReference.cache
+C:\Users\mateusbrum\source\repos\UserLoginMVP\Shared\obj\Release\Shared.csproj.CoreCompileInputs.cache
+C:\Users\mateusbrum\source\repos\UserLoginMVP\Shared\bin\Release\Shared.dll
+C:\Users\mateusbrum\source\repos\UserLoginMVP\Shared\bin\Release\Shared.pdb
+C:\Users\mateusbrum\source\repos\UserLoginMVP\Shared\obj\Release\Shared.dll
+C:\Users\mateusbrum\source\repos\UserLoginMVP\Shared\obj\Release\Shared.pdb

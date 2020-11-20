@@ -4,6 +4,16 @@
     "C:\\Users\\mateusbrum\\source\\repos\\UserLoginMVP\\UserLoginMVP\\UserLoginMVP.csproj": {}
   },
   "projects": {
+    "C:\\Users\\mateusbrum\\source\\repos\\UserLoginMVP\\Shared\\Shared.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mateusbrum\\source\\repos\\UserLoginMVP\\Shared\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "C:\\Users\\mateusbrum\\source\\repos\\UserLoginMVP\\Shared\\Shared.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\mateusbrum\\source\\repos\\UserLoginMVP\\UserLoginMVP\\UserLoginMVP.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -26,7 +36,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\mateusbrum\\source\\repos\\UserLoginMVP\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\mateusbrum\\source\\repos\\UserLoginMVP\\Shared\\Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
